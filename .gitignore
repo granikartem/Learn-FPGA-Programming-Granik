@@ -120,3 +120,4 @@ compile.sh
 
 ##Allow docs
 !*.md
+!*.png
